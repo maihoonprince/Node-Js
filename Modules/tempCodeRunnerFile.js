@@ -1,0 +1,1 @@
+console.log("math value is", math.subFnFn(9, 6));
