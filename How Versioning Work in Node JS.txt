@@ -1,0 +1,26 @@
+// Version :
+
+// 4.18.2
+
+// 1st Part -> 4
+// 2nd Part -> 18
+// 3rd Part -> 2
+
+// 3rd Part (Last Part) - Minor Fixes (Optional)
+
+// 2nd Part - Recommended Bug Fix (Security Fix)
+
+// 1st Part - Major and Breaking Upgrade
+
+// Carrot Symbole
+ ^4.18.2 : 4.18.2 -> < 5.0.0 you can install
+ ^ : Install all recommended and minor fixes Automatically
+
+
+// ^~4.18.2 : 
+ ~4.18.1
+ ~4.18.2
+ ~4.18.3
+ ~4.18.4
+
+ 4.19.1    Noooooo......0
