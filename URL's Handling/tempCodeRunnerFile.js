@@ -1,0 +1,1 @@
+if(req.url === '/favicon.ico')
