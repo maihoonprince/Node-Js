@@ -1,0 +1,10 @@
+// Rest API : set of rules and conventions for building and interacting with web services. 
+
+It's based on the principles of REST, which is an architectural style for designing networked applications. 
+
+REST APIs are commonly used for building web services that allow different software systems to communicate with each other over the internet.
+
+// It Work on Server and Client Architecture.
+// It send json formate Raw data to Client Server...
+
+// Always Respect all HTTP methods (GET, POST, PUT, Patch, DELETE ).
