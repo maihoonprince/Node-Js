@@ -1,0 +1,5 @@
+HTTP Headers
+
+----> It is an important part of API request and response as ther represent the meta-data associated with the api request ad response.
+
+Header carry information for the request and resonse body.
