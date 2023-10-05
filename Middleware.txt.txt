@@ -1,0 +1,41 @@
+// REST API's using Node JS and Express JS :
+
+steps :
+1. npm init
+2. npm i Express
+3. https://mockaroo.com/ for 1000 data.
+4. Tool used: POSTMAN for POST, PATCH, DELETE .
+
+
+REST API - JSON
+
+GET/users - List all users
+
+GET/users/1 - Get the user with ID 1.
+GET/users/2 - Get the user with ID 2.
+
+POST/users - Create new user
+
+PATCH/user/1 - Edit the user with ID 1.
+
+DELETE/user/1 - Delete the User with ID 1.
+
+
+
+// What is Middleware ?
+
+-----> Express is a routing and middleware web framework that has minimal functionality of its own: An Express application is essentially a series of middleware function calls.
+
+---->  Middleware functions are functions that have access to the request object (req), the response object (res), and the next middleware function in the application’s request-response cycle. The next middleware function is commonly denoted by a variable named next.
+
+---->  Middleware functions can perform the following tasks:
+
+. Execute any code.
+. Make changes to the request and the response objects.
+. End the request-response cycle.
+. Call the next middleware function in the stack.
+
+If the current middleware function does not end the request-response cycle, it must call next() to pass control to the next middleware function. Otherwise, the request will be left hanging.
+
+
+
