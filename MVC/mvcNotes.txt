@@ -1,0 +1,6 @@
+MVC : Model View Controller
+
+router > controller > model.
+
+Router calls Controller
+Controller manipulate Model.
